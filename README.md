@@ -78,13 +78,6 @@ Certifique-se de ter os seguintes itens instalados:
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.  
-Para mais informações, consulte o arquivo [LICENSE](LICENSE).
-
----
-
 ## ✨ Contribuições
 
 Contribuições são muito bem-vindas!  
